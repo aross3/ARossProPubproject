@@ -1,0 +1,175 @@
+html {
+	background-color: white;
+}
+
+body {
+	width: 900px;
+	margin: 0px auto;
+	padding: 15px;
+}
+
+h1 {
+	text-align: center;
+	padding: 15px 0px 20px 0px;
+	font-family: Aharoni, Helvetica, sans-serif;
+	font-size: 60px;
+	color: #000933;
+
+}
+
+iframe {
+	display:block;
+	margin: 0px auto;
+}
+
+.ledein {
+	font-size: 18px;
+	font-family: Helvetica, sans-serif;
+	color: #737373;
+}
+
+h4 {
+	color: #3c4350;
+	font-family: Helvetica, sans-serif;
+	margin: 10px;
+}
+
+h2 {
+	margin: 10px;
+}
+
+.explanation {
+	float: left;
+	width: 700;
+}
+
+.explantext {
+	padding: 0px 10px;
+	font-family: Helvetica, sans-serif;
+	text-align: left;
+}
+
+
+.totalnum {
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 48px;
+	color: white;
+	background-color: #1c4587;
+	margin-right: 80px;
+	margin-left: 80px;
+
+}
+
+.restraintcopy {
+	margin: 5px 5px 5px 12px;
+	width: 180px;
+}
+
+.restraintname {
+	font-size: 18px;
+	font-family: Helvetica; sans-serif;
+	font-weight: bold;
+	line-height: 14px;
+	text-align: center;
+	color: #F8F8FF;
+}
+
+.percent {
+	font-family: Helvetica; sans-serif;
+	font-weight: bolder;
+	font-size: 48px;
+	line-height: 0px;
+	text-align: center;
+	color: #F8F8FF;
+}
+
+.moreinfo {
+	text-align: left;
+	font-family: Helvetica; sans-serif;
+	font-size: 12px;
+	color: #F8F8FF;
+
+}
+
+.pcttext {
+	text-align: center;
+	font-family: Helvetica; sans-serif;
+	font-size: 12px;
+	line-height: 0px;
+	color: #F8F8FF;
+}
+
+.restraintcard {
+	margin: 5px;
+	background-color: #7E0900;
+	width: 210px;
+	height: 425px;
+	float: left;
+}
+
+.pics {
+	padding: 10px 10px 0px 15px;
+	width: 180px;
+
+}
+
+.wordle {
+	margin: auto;
+	width: 700px;
+	border: 1px solid #7E0900;
+	display: block;
+}
+
+.chart {
+	width: 100%;
+}
+
+/*ul.tab {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+ul.tab li {float: left;}
+
+ul.tab li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 12px 12px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 12px;
+    font-family: Helvetica, sans-serif;
+}
+
+ul.tab li a:hover {background-color: #ddd;}
+
+ul.tab li a:focus, .active {background-color: #ccc;}
+
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+.tabcontent {
+    -webkit-animation: fadeEffect 1s;
+    animation: fadeEffect 1s; 
+}
+
+@-webkit-keyframes fadeEffect {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+@keyframes fadeEffect {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}*/
